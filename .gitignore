@@ -1,0 +1,16 @@
+# These are system files on Mac so we don't want them.
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# These should be installed each time so they are ignored.
+node_modules/
+
+# These directories are used as temp storage and don't need to be tracked.
+.sass-cache/
+assets/js/tmp/
+assets/css/tmp/
