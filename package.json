@@ -1,8 +1,8 @@
 {
-  "name": "grunt-theme",
+  "name": "RobotsWin",
   "version": "1.0.0",
   "description": "Theme template using Grunt tasks",
-  "author": "Cake & Eat It Designs",
+  "author": "Dustin Yoxall",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^1.0.1",
