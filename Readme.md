@@ -1,4 +1,4 @@
-# Robot Win
+# Robots Win
 *A starter theme for Wordpress that uses Grunt*
 
 This requires [Node.js](http://nodejs.org/) and [Grunt](http://gruntjs.com/) to be installed.
