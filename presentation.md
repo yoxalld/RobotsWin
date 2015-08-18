@@ -1,16 +1,18 @@
 #Let The Robots Win
 Using task automation and other goodies to save you time in your workflow.
 ##First, develop locally. It saves time. Period
-*WAMP
-*XAMP
-*MAMP
-*Desktop Server
+* WAMP
+* XAMP
+* MAMP
+* Desktop Server
+
 ##Use preprocessors like SASS or LESS
 The great thing about these tools is that you can still write in plain old regular css if you don't know much of the preprocessor language. Then when you do start to figure it out you can just add in without missing a beat.
 ##The real time savers are task automators.
-*Grunt
-*Gulp
-*Codekit
+* Grunt
+* Gulp
+* Codekit
+
 These tools help take repetitive tasks that you would normally have to do and instead they do them for you.
 These tools are very customizable. You can add and remove pieces to fit your particular workflow needs.
 ##Setting up your grunt file.
@@ -42,6 +44,7 @@ For each task you need to set some configuration options. Each task module will 
 
 Concat
 SASS
+
 	sass: {
 		dist: {
 			options: {
@@ -52,9 +55,10 @@ SASS
 			}
 		}
 	},
+	
 Watch
 ##The real gems
-*Js Hint
-*Autoprefixer
-*Imagemin
-*SvgStore
+* Js Hint
+* Autoprefixer
+* Imagemin
+* SvgStore
