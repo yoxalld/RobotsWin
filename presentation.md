@@ -33,6 +33,7 @@ For each task you need to set some configuration options. Each task module will 
 
 ##The basics(using Grunt examples)
 * Uglify
+```
 	uglify: {
 		options: {
 			mangle: false
@@ -42,10 +43,10 @@ For each task you need to set some configuration options. Each task module will 
 			dest: 'assets/js/build/style-min.js'
 		}
 	},
-
+```
 * Concat
 * SASS
-
+```
 	sass: {
 		dist: {
 			options: {
@@ -56,7 +57,7 @@ For each task you need to set some configuration options. Each task module will 
 			}
 		}
 	},
-
+```
 * Watch
 
 ##The real gems
