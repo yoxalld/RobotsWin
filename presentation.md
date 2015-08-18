@@ -32,6 +32,7 @@ After the initConfig section you can load all your tasks like this:
 For each task you need to set some configuration options. Each task module will have it's own set of config options so it is best to check the github pages and look at their examples. I will provide some basic examples to help get things started.
 
 ##The basics(using Grunt examples)
+* Uglify
 	uglify: {
 		options: {
 			mangle: false
@@ -42,8 +43,8 @@ For each task you need to set some configuration options. Each task module will 
 		}
 	},
 
-Concat
-SASS
+* Concat
+* SASS
 
 	sass: {
 		dist: {
@@ -55,8 +56,9 @@ SASS
 			}
 		}
 	},
-	
-Watch
+
+* Watch
+
 ##The real gems
 * Js Hint
 * Autoprefixer
